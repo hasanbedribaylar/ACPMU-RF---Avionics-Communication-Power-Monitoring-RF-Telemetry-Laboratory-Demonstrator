@@ -1,2 +1,2 @@
-# Moduler Aviyonik Haberleşme, Guç İzleme ve RF Telemetri Sistemi
+# ACPMU-RF - Avionics Communication, Power Monitoring & RF Telemetry Laboratory Demonstrator
 Hardware Desing Project
